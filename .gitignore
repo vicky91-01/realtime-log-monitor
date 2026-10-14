@@ -1,0 +1,12 @@
+# Generated at runtime - not source code, should not be committed
+logs/
+logs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
